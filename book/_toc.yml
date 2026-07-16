@@ -4,7 +4,7 @@ format: jb-book
 root: intro.md
 
 parts:
-  - caption: Week 1: Getting started!
+  - caption: "Week 1: Getting started!"
     chapters:
     - file: Week1/Folders.md
     - file: Week1/installation.md
