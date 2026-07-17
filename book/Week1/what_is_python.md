@@ -42,10 +42,10 @@ That is in essence how Python works. You give it a line of code, Python:
 - **returns** the outcome
 - **moves** to the next line of code
 
-Thus, when you give it two lines of code, it will run the first, and then the second.
+Thus, when you give it two lines of code, it will run the first, and then the second. This means if you write the following:
 
 ```Python
 print("one")
 print("two")
 ```
-Will return "one", followed by "two".
+Python will return "one", followed by "two".

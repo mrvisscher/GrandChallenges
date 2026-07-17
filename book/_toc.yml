@@ -10,7 +10,7 @@ parts:
     - file: Week1/installation.md
     - file: Week1/why_and_how.md
     - file: Week1/what_is_python.md
-    - file: Week1/input_output.md
+    - file: Week1/input_to_output.md
 
     # - file: exercise_notebooks/exercise_notebook_week_1.ipynb
 

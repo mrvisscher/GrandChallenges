@@ -6,7 +6,7 @@ You need to tell a computer *exactly* what to do, or:
 - It will not do it, or, maybe even worse,
 - Do something unexpected.
 
-But how do you tell a computer what to do in a way that can only be interpreted in **one single way**?
+But how do you tell a computer what to do so it can only be interpreted in **one single way**?
 
 ## Programming Code
 
